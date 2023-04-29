@@ -1,0 +1,16 @@
+.paragraph{
+    font-size: large;
+}
+.image{
+    height: 500px;
+    width: 500px;
+}
+.list{
+    border-radius: 5%;
+    background-color: green;
+    padding: 30px;
+}
+#paragraph{
+    background-color: yellow;
+    font-size: xx-large;
+}
